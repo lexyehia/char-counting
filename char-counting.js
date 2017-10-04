@@ -17,4 +17,4 @@ function countLetters(str) {
     return alphabet;
 }
 
-console.log(countLetters('Hello there Darth Vader!'));
+console.log(countLetters('lighthouse in the house'));
